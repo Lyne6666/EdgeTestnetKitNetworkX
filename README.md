@@ -1,2 +1,1 @@
-# EdgeTestnetKitNetworkX
-Advanced EdgeTestnetKitNetworkX project
+.
